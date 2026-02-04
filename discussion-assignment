@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Introducing My Pets</title>
+
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace;
+            background-color: #ead1dc;
+        }
+
+        header{
+            text-align: center;
+        }
+
+        h1 {
+            color: #b51c5f;
+        }
+
+        h2 {
+            color: #b24876;
+        }
+        
+        p {
+            font-size: 16px;
+            color: #b24876;
+        }
+
+        ul {
+            color: #b24876;
+            list-style-type: square;
+        
+        }
+
+        ol {
+            color: #b24876;
+        
+        }
+
+        img
+        {
+            display:block;
+            
+        }
+
+        a {
+            color: #b51c5f;
+        }
+    </style>
+
+</head>
+<body>
+    <header>
+        <h1>
+            Meet My Pets
+        </h1>
+    </header>
+
+    <h2>
+        Phinny
+    </h2>
+
+   <p>
+        Here's a little bit about Phinny:
+   </p>
+
+   <ul>
+        <li>Breed: Holland Lop</li>
+        <li>Age: 7 years old</li>
+        <li>Color: Brown</li>
+        <li>Favorite Treat: Bananas</li>
+    </ul>
+
+   <img src="Phinny.JPG" alt="Phinny" height="400">
+
+   <p>
+        Read more about Holland Lop rabbits 
+        <a href="https://www.petmd.com/rabbit/breeds/holland-lop" 
+        target= "_blank" >
+        <u>here</u></a>.
+   </p>
+   
+   
+   <h2>
+    Monte
+   </h2>
+
+   <p>
+        Here's a little bit about Monte:
+   </p>
+
+    <ul>
+        <li>Breed: Westphalian</li>
+        <li>Age: 17 years old</li>
+        <li>Color: Dark Bay</li>
+        <li>Favorite Treat: Carrots</li>
+    </ul>
+
+   <img src="Monte.JPG" alt="Monte" height="400">
+
+   <p>
+        Read more about Westphalian horses 
+        <a href="https://madbarn.com/westphalian-horse-breed-guide/?srsltid=AfmBOooqPGOTXVyViqkz0MH1KazRhGxjkZpJ3WuHvCtrWOc6EkdVPuw6" 
+        target ="_blank" >
+        <u>here</u></a>.
+
+        <br><br>
+
+        Places Monte and I have lived:
+    </p>
+
+    <ol>
+        <li>Los Angeles, California</li>
+        <li>Cleveland, Ohio</li>
+        <li>Nashville, Tennessee</li>
+    </ol>
+
+    <p>
+        I hope you enjoyed learning about my pets!
+   </p>
+
+</body>
+</html>
+
+
